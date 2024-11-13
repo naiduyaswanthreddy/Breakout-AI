@@ -58,7 +58,7 @@ The email sending dashboard is a web application where users can:
 #### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/email-dashboard.git
+    git clone https://github.com/naiduyaswanthreddy/Breakout-AI.git
     cd email-dashboard
     ```
 
