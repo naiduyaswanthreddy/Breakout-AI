@@ -1,3 +1,6 @@
+![Screenshot 2024-11-13 221928](https://github.com/user-attachments/assets/316440e7-6f22-46b0-b83b-8def3bbb75b9)
+
+
 # Custom Email Sending Dashboard
 
 This project is an email sending dashboard designed to personalize, schedule, and track bulk emails. The dashboard offers dynamic email customization, scheduling, analytics, and ESP (Email Service Provider) integration for delivery tracking. This README will guide you through each component, setup, and feature to complete the assignment requirements.
